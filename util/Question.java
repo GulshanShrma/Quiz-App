@@ -1,4 +1,4 @@
-package app.util;
+package util;
 
 /*
  * This class defines an object Question

@@ -1,7 +1,5 @@
-package app;
-
 import java.util.Scanner;
-import app.util.*;
+import util.*;
 
 class Main{
     public static void main(String[] args) {
